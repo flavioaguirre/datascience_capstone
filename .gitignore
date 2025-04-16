@@ -1,0 +1,11 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Ignore virtual environment directories
+# The following line is for a virtual environment created with venv
+# or python -m venv. Adjust the name if you use a different tool or name.
+.venv/
+
+
